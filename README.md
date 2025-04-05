@@ -1,5 +1,5 @@
 # R-SHINY-APP
-I think we'll have to publish the repository individually since thats how the others have done it. Rephrase this for the readme file description:📊 Time Series Analysis App using R Shiny
+📊 Time Series Analysis App using R Shiny
 This is an interactive R Shiny web application for exploring and modeling time series data. Built as part of an academic project, it covers a wide range of techniques including decomposition, transformation, ARIMA-based models, and volatility modeling using ARCH and GARCH. The app also integrates Python code via the reticulate package to enhance flexibility.
 
 🔍 Key Features
