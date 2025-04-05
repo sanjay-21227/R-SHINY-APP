@@ -31,15 +31,11 @@ pandas
 numpy
 (Ensure Python is installed and configured with these packages)
 🚀 How to Run the App
-1. Clone the Repository
-git clone https://github.com/your-username/time-series-shiny-app.git
-cd time-series-shiny-app
-2. Install Required R Packages
+1. Install Required R Packages
 install.packages(c("shiny", "forecast", "tseries", "rugarch", 
                    "ggplot2", "TTR", "zoo", "reticulate", "xts", "gridExtra"))
-3. Run the App in R
+2. Run the App in R
 shiny::runApp("RSHINY.R")
-✅ Ensure Python is configured properly with reticulate.
 
 👥 Credits
 This app was developed as part of our Time Series Analysis coursework by a team of five MSc Statistics students.
